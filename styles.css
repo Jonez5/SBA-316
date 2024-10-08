@@ -41,3 +41,30 @@
         color: antiquewhite;
         text-align: center;
     }
+
+
+    
+  .container {
+    
+    
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #000000;
+    text-align: center;
+    padding: 30px;
+}
+ 
+.asking {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+ 
+.question label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #f5eeee;
+}
+ 
+
+
+ 
